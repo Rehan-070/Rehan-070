@@ -60,7 +60,7 @@ Motivated by continuous learning and real-world implementation.
 
 ### 🔹 HackerRank
 <p align="center">
-  <a href="https://www.hackerrank.com/profile/rehanOrc0" target="_blank">
+  <a href="https://www.hackerrank.com/profile/rehan0rc0" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-rehanOrc0-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
