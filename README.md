@@ -17,6 +17,18 @@ Motivated by continuous learning and real-world implementation.
 
 ---
 
+## 🌐 Profiles & Links
+<p align="center">
+  <a href="https://www.linkedin.com/in/rehan-shaikh-5754b533a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Rehan%20Shaikh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/rehan-070" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-rehan--070-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
 ## 🧠 Technical Focus Areas
 - Python development & backend systems  
 - Data Structures & Algorithms (LeetCode, HackerRank)  
@@ -48,9 +60,20 @@ Motivated by continuous learning and real-world implementation.
 
 ### 🔹 HackerRank
 <p align="center">
-  <a href="https://www.hackerrank.com/profile/rehan0rc0" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <a href="https://www.hackerrank.com/profile/rehanOrc0" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-rehanOrc0-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HackerRank-Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehan-070&theme=tokyonight" />
 </p>
 
 ---
