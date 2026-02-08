@@ -65,9 +65,6 @@ Motivated by continuous learning and real-world implementation.
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HackerRank-Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</p>
 
 ---
 
