@@ -9,6 +9,7 @@
 ---
 
 ## 👨‍💻 About
+
 Python developer from India 🇮🇳 with a strong focus on backend development, problem-solving, and applied AI.  
 Actively working on Data Structures & Algorithms and building practical AI-driven applications.  
 Motivated by continuous learning and real-world implementation.
@@ -18,6 +19,7 @@ Motivated by continuous learning and real-world implementation.
 ---
 
 ## 🌐 Profiles & Links
+
 <p align="center">
   <a href="https://www.linkedin.com/in/rehan-shaikh-5754b533a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Rehan%20Shaikh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -30,24 +32,47 @@ Motivated by continuous learning and real-world implementation.
 ---
 
 ## 🧠 Technical Focus Areas
-- Python development & backend systems  
-- Data Structures & Algorithms (LeetCode, HackerRank)  
-- Machine Learning fundamentals  
-- Generative AI tools & applications  
-- AI workflow automation  
+
+- Python development & backend systems
+- Data Structures & Algorithms
+- Machine Learning fundamentals
+- Generative AI tools & applications
+- AI workflow automation
 
 ---
 
 ## 🛠️ Technologies
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,flask,php,laravel,mysql,mongodb,linux,git,opencv,tensorflow,pytorch" />
 </p>
 
 ---
 
-## 🧩 Problem-Solving Profiles
+# 🧩 Problem-Solving Profiles
 
-### 🔹 LeetCode
+## 🔹 Codeforces
+
+<p align="center">
+  <a href="https://codeforces.com/profile/Rehan-3618" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Rehan--3618-445F9D?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Rehan-3618&theme=github_dark" />
+</p>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/Rehan-3618" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Codeforces%20Profile-445F9D?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🔹 LeetCode
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/REHAN_001?theme=dark&font=Baloo&ext=heatmap" />
 </p>
@@ -58,33 +83,42 @@ Motivated by continuous learning and real-world implementation.
   </a>
 </p>
 
-### 🔹 HackerRank
+---
+
+## 🔹 HackerRank
+
 <p align="center">
   <a href="https://www.hackerrank.com/profile/rehan0rc0" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-rehanOrc0-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-rehan0rc0-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
-
 
 ---
 
 ## 📊 GitHub Activity
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehan-070&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rehan-070&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehan-070&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
 ## 🎯 Current Goals
-- Strengthen DSA & algorithmic thinking  
-- Build production-ready backend + AI projects  
-- Gain deeper expertise in ML & GenAI  
-- Transition from learner to professional AI engineer  
+
+- Strengthen DSA & algorithmic thinking
+- Build production-ready Backend + AI projects
+- Gain deeper expertise in Machine Learning & Generative AI
+- Transition from learner to professional AI Engineer
 
 ---
 
 <p align="center">
-  <i>“Consistency compounds.”</i>
+  <i>"Consistency compounds."</i>
 </p>
 
 <p align="center">
