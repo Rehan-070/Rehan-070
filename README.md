@@ -104,16 +104,6 @@ Motivated by continuous learning and real-world implementation.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehan-070&theme=tokyonight" />
 </p>
 
----
-
-## 🎯 Current Goals
-
-- Strengthen DSA & Algorithmic Thinking
-- Build Production-Ready Backend + AI Projects
-- Gain Deeper Expertise in Machine Learning & Generative AI
-- Transition from Learner to Professional AI Engineer
-
----
 
 <p align="center">
   <i>"Consistency compounds."</i>
