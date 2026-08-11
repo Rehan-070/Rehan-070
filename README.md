@@ -10,8 +10,10 @@
 
 ## 👨‍💻 About
 
-Python developer from India 🇮🇳 with a strong focus on backend development, problem-solving, and applied AI.  
-Actively working on Data Structures & Algorithms and building practical AI-driven applications.  
+Python developer from India 🇮🇳 with a strong focus on backend development, problem-solving, and applied AI.
+
+Actively working on Data Structures & Algorithms and building practical AI-driven applications.
+
 Motivated by continuous learning and real-world implementation.
 
 📫 **Contact:** `rehan0rc0@gmail.com`
@@ -24,6 +26,7 @@ Motivated by continuous learning and real-world implementation.
   <a href="https://www.linkedin.com/in/rehan-shaikh-5754b533a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Rehan%20Shaikh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://github.com/rehan-070" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-rehan--070-181717?style=for-the-badge&logo=github" />
   </a>
@@ -33,11 +36,11 @@ Motivated by continuous learning and real-world implementation.
 
 ## 🧠 Technical Focus Areas
 
-- Python development & backend systems
+- Python Development & Backend Systems
 - Data Structures & Algorithms
-- Machine Learning fundamentals
-- Generative AI tools & applications
-- AI workflow automation
+- Machine Learning
+- Generative AI
+- AI Workflow Automation
 
 ---
 
@@ -102,18 +105,18 @@ Motivated by continuous learning and real-world implementation.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rehan-070&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehan-070&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rehan-070&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehan-070&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🎯 Current Goals
 
-- Strengthen DSA & algorithmic thinking
-- Build production-ready Backend + AI projects
-- Gain deeper expertise in Machine Learning & Generative AI
-- Transition from learner to professional AI Engineer
+- Strengthen DSA & Algorithmic Thinking
+- Build Production-Ready Backend + AI Projects
+- Gain Deeper Expertise in Machine Learning & Generative AI
+- Transition from Learner to Professional AI Engineer
 
 ---
 
