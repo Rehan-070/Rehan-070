@@ -98,17 +98,4 @@ Motivated by continuous learning and real-world implementation.
 
 ---
 
-## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehan-070&theme=tokyonight" />
-</p>
-
-
-<p align="center">
-  <i>"Consistency compounds."</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rehan-070&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
