@@ -38,7 +38,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://leetcode.com/u/REHAN_001/">
-        <img src="https://leetcard.jacoblin.cool/REHAN_001?theme=forest&font=Baloo&ext=heatmap" width="100%" alt="LeetCode statistics" />
+        <img src="https://leetcard.jacoblin.cool/REHAN_001?theme=dark&font=Baloo&ext=heatmap&hide=border&bg_color=080D0A&title_color=00C853&text_color=69F0AE&icon_color=00C853" width="100%" alt="Green LeetCode statistics" />
       </a>
       <br/>
       <a href="https://leetcode.com/u/REHAN_001/">
