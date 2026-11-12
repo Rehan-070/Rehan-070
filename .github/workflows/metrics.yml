@@ -8,6 +8,7 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
 
@@ -18,16 +19,24 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: rehan-070
           filename: github-metrics.svg
+
+          # General statistics
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
           config_display: large
+
+          # Coding habits
           plugin_habits: yes
+
+          # Programming languages
           plugin_languages: yes
           plugin_languages_details: percentage, bytes-size
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
+
+          # Isometric contribution calendar
           plugin_isocalendar: yes
+
+          # Repository topics and technologies
           plugin_topics: yes
           plugin_topics_mode: icons
-          plugin_achievements: yes
-          plugin_achievements_display: compact
