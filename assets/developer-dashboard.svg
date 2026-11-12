@@ -1,1 +1,59 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="470" viewBox="0 0 1000 470" role="img" aria-labelledby="title desc">
+<title id="title">Rehan's developer workspace</title>
+<desc id="desc">A dark developer dashboard with a code editor, Python backend panel, AI network and terminal.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#101827"/><stop offset="1" stop-color="#0b1220"/>
+  </linearGradient>
+  <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#36bcf7"/><stop offset="1" stop-color="#22d3ee"/>
+  </linearGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+    <path d="M28 0H0V28" fill="none" stroke="#213348" stroke-width="1" opacity=".45"/>
+  </pattern>
+  <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect x="2" y="2" width="996" height="466" rx="22" fill="url(#bg)" stroke="#29465c" stroke-width="2"/>
+<rect x="3" y="3" width="994" height="464" rx="21" fill="url(#grid)" opacity=".65"/>
+<circle cx="820" cy="90" r="110" fill="#0e7490" opacity=".17" filter="url(#soft)"/>
+<circle cx="160" cy="390" r="100" fill="#2563eb" opacity=".12" filter="url(#soft)"/>
+<!-- top bar -->
+<path d="M3 62H997" stroke="#29465c"/>
+<circle cx="30" cy="32" r="7" fill="#fb7185"/><circle cx="54" cy="32" r="7" fill="#fbbf24"/><circle cx="78" cy="32" r="7" fill="#34d399"/>
+<text x="112" y="38" fill="#8ba3b8" font-family="monospace" font-size="16">rehan@developer-workspace</text>
+<text x="900" y="38" fill="#36bcf7" font-family="monospace" font-size="13" text-anchor="end">● ONLINE</text>
+<!-- left code panel -->
+<rect x="28" y="88" width="560" height="335" rx="14" fill="#0c1522" stroke="#29465c"/>
+<text x="52" y="119" fill="#d7e5f2" font-family="monospace" font-size="16">backend / api.py</text>
+<circle cx="542" cy="112" r="4" fill="#36bcf7"/>
+<path d="M48 137H568" stroke="#22374a"/>
+<g font-family="monospace" font-size="15">
+  <text x="52" y="174" fill="#647f96">01</text><text x="88" y="174" fill="#c792ea">from</text><text x="132" y="174" fill="#d7e5f2"> django.http </text><text x="248" y="174" fill="#c792ea">import</text><text x="302" y="174" fill="#82aaff"> JsonResponse</text>
+  <text x="52" y="207" fill="#647f96">02</text><text x="88" y="207" fill="#c792ea">def</text><text x="122" y="207" fill="#82aaff"> health_check</text><text x="244" y="207" fill="#d7e5f2">(request):</text>
+  <text x="52" y="240" fill="#647f96">03</text><text x="108" y="240" fill="#c792ea">return</text><text x="164" y="240" fill="#82aaff"> JsonResponse</text><text x="278" y="240" fill="#d7e5f2">({</text><text x="292" y="240" fill="#a5e075">'status'</text><text x="361" y="240" fill="#d7e5f2">: </text><text x="375" y="240" fill="#a5e075">'healthy'</text><text x="449" y="240" fill="#d7e5f2">})</text>
+  <text x="52" y="290" fill="#647f96">04</text><text x="88" y="290" fill="#647f96"># Build. Test. Improve.</text>
+  <text x="52" y="350" fill="#36bcf7">➜</text><text x="88" y="350" fill="#d7e5f2">python manage.py runserver</text>
+  <text x="52" y="383" fill="#34d399">✓ API server ready</text>
+</g>
+<!-- right top AI card -->
+<rect x="612" y="88" width="360" height="188" rx="14" fill="#0c1522" stroke="#29465c"/>
+<text x="638" y="120" fill="#d7e5f2" font-family="monospace" font-size="16">AI / ML WORKFLOW</text>
+<g stroke="#36bcf7" stroke-width="2" fill="none" opacity=".9">
+  <path d="M685 185L758 157L834 185L900 148M758 157L790 230L900 148M685 185L790 230L834 185"/>
+</g>
+<g fill="#102c40" stroke="#36bcf7" stroke-width="2">
+  <circle cx="685" cy="185" r="19"/><circle cx="758" cy="157" r="19"/><circle cx="834" cy="185" r="19"/><circle cx="900" cy="148" r="19"/><circle cx="790" cy="230" r="19"/>
+</g>
+<g fill="#d7f4ff" font-family="monospace" font-size="11" text-anchor="middle">
+  <text x="685" y="189">DATA</text><text x="758" y="161">ML</text><text x="834" y="189">API</text><text x="900" y="152">AI</text><text x="790" y="234">RAG</text>
+</g>
+<!-- right lower skills card -->
+<rect x="612" y="294" width="360" height="129" rx="14" fill="#0c1522" stroke="#29465c"/>
+<text x="638" y="326" fill="#d7e5f2" font-family="monospace" font-size="16">CURRENT TOOLKIT</text>
+<g font-family="monospace" font-size="13">
+  <rect x="638" y="346" width="92" height="27" rx="7" fill="#102c40" stroke="#1c7894"/><text x="684" y="364" fill="#7dd3fc" text-anchor="middle">Python</text>
+  <rect x="740" y="346" width="92" height="27" rx="7" fill="#102c40" stroke="#1c7894"/><text x="786" y="364" fill="#7dd3fc" text-anchor="middle">Django</text>
+  <rect x="842" y="346" width="104" height="27" rx="7" fill="#102c40" stroke="#1c7894"/><text x="894" y="364" fill="#7dd3fc" text-anchor="middle">AI / ML</text>
+  <text x="638" y="399" fill="#7692a8">Backend engineering · Problem solving</text>
+</g>
+</svg>
