@@ -1,5 +1,7 @@
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E90FF&height=160&section=header&text=Rehan%20Shaikh&fontSize=38&fontColor=ffffff" />
+  <img src="./github-metrics.svg" width="100%" alt="GitHub Metrics" />
 </p>
 
 <p align="center">
