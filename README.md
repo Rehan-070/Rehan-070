@@ -1,7 +1,12 @@
+
 <table>
   <tr>
     <td width="35%" align="center" valign="middle">
-      <img src="./assets/shanks-halftone.png" width="250" alt="Shanks halftone artwork" />
+      <img
+        src="./assets/zoro-halftone-rounded.png"
+        width="250"
+        alt="Zoro green halftone artwork"
+      />
     </td>
     <td width="65%" valign="middle">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=1500&color=00C853&vCenter=true&width=460&height=55&lines=Hi%2C+I'm+Rehan." alt="Hi, I'm Rehan" />
